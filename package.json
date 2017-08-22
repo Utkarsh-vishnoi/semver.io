@@ -12,7 +12,7 @@
     "lodash": "3.10.1",
     "logfmt": "1.2.0",
     "marked": "0.3.2",
-    "newrelic": "1.14.1",
+    "newrelic": "2.1.0",
     "npm-stats": "1.2.0",
     "pygmentize-bundled": "2.3.0",
     "semver": "5.0.1",
